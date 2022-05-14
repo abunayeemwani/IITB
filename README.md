@@ -45,5 +45,7 @@ All the API end point images are available in Demo folder
 `python manage.py migrate`
 ## Create super user
 `python manage.py createsuperuser`
+### After creating superuser please login using login-credentials and then you can add, update or delete data.
 ## Run the server
 `python manage.py runserver` the application will be running on port 8000
+
